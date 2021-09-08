@@ -19,4 +19,4 @@ This is a simple web project
 
 ### Copyright
 
-2021 Git.Training
+2021 Git.training
