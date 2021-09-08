@@ -16,3 +16,7 @@ Sample website with plenty of files for demos. The main purpose is to provide ex
 This is a simple web project
 
 ## How to contribute
+
+### Copyright
+
+2021 Git.Training
