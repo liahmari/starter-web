@@ -9,8 +9,10 @@ This is a simple website project for showing how to use Git and GitHub. This exa
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos. The main purpose is to provide examples for Git training demos.
 
 ## Deployment
+
+This is a simple web project
 
 ## How to contribute
